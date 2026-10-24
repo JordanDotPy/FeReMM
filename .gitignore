@@ -1,0 +1,18 @@
+# Dataset (MedMNIST is downloaded on first run, not redistributed)
+.medmnist/
+
+# Run outputs (logs/logger.py is code and stays tracked)
+logs/**/*.log
+evaluation/
+/feremm/
+
+# Paper and working files (not part of the code release)
+/*.png
+/*.tex
+
+# Python / editor / OS
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+._*

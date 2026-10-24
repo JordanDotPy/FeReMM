@@ -1,0 +1,12 @@
+# Install the PyTorch build that matches your CUDA version first: https://pytorch.org/get-started/locally/
+torch
+torchvision
+medmnist
+monai
+SimpleITK
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+tqdm
